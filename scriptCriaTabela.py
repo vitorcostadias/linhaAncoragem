@@ -21,6 +21,7 @@ def criar_tabela_linha_ancoragem():
         tipo VARCHAR(50),
         comprimento FLOAT,
         densidade FLOAT,
+        area FLOAT,
         tensaotopo FLOAT
     )
     """
