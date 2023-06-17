@@ -1,5 +1,5 @@
-#Projeto Linha de Ancoragem#
-Este projeto serve para apresnder como utilizar as tecnologias:
+# Projeto Linha de Ancoragem #
+Este projeto serve para aprender como utilizar as tecnologias:
 -Python,MySQL
 -Tkinter,pymysql
 
